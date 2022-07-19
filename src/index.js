@@ -10,6 +10,17 @@ root.render(
     <div>
       <Weather />
     </div>
+    <p>
+      This project was coded by Taylor Bauer and is{" "}
+      <a
+        href="https://github.com/taybauer/weather-react"
+        alt="GitHub Repository"
+        target="_blank"
+        rel="noreferrer"
+      >
+        open-sourced
+      </a>
+    </p>
   </div>
 );
 
