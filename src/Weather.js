@@ -4,7 +4,7 @@ import "./App.css";
 
 export default function App() {
   return (
-    <div className="SearchEngine">
+    <div className="Weather">
       <h1>Weather Search Engine</h1>
       <Search />
     </div>
